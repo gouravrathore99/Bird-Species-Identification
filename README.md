@@ -6,4 +6,4 @@ Many people are interested in observing and studying wildlife, especially in bir
 
 The Bird’s voices were used in earlier technique to predict it species, but this technique has many challenges to give an accurate result due to other background of birds/animal voices. So, images can be best choice to be used to identify bird’s species. In this case study, we will be developing a deep learning model to identify the species of some commonly found birds from their picture. To implement this technique, the images of birds from different species will be used to generate models. The model will make identification of birds easier without human interference in their activities.
 
-Blog:
+Blog: https://gouravrathore99.medium.com/a-case-study-on-birds-species-identification-115b0f4965db
